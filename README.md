@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🙊 Detoxify
+# 🙊 ShieldX
 ##  Toxic Comment Classification with ⚡ Pytorch Lightning and 🤗 Transformers
 
 [![PyPI version](https://badge.fury.io/py/detoxify.svg)](https://badge.fury.io/py/detoxify)
